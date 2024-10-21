@@ -1,4 +1,4 @@
-//Mon Oct 21 2024 12:20:50 GMT+0000 (Coordinated Universal Time)
+//Mon Oct 21 2024 12:21:58 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const $ = new Env("霸王茶姬");
